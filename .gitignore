@@ -1,0 +1,7 @@
+#.*
+*.log
+*.class
+*/target/*
+*/bin/*
+*/build/*
+/target

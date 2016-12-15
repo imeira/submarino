@@ -14,4 +14,3 @@ java -jar submarino-0.0.1-SNAPSHOT.jar
 4- Contatos do desenvolvedor: 
 Igor Meira de Jesus
 meira.igor@gmail.com
-(11) 98069-7232

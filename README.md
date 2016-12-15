@@ -12,5 +12,5 @@ java -jar submarino-0.0.1-SNAPSHOT.jar
 3- Duvidas verificar a evidencia do teste em submarino\exemplo_de_execucao.PNG
 
 4- Contatos do desenvolvedor: 
-Igor Meira de Jesus
+Igor Meira
 meira.igor@gmail.com
